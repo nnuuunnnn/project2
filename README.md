@@ -1,6 +1,4 @@
-# project2
-
-## What are the potential factors that affect the COVID-19 death rate?
+# project2 - What are the potential factors that affect the COVID-19 death rate?
 
 
 ### The original data is from Kaggle.com.
